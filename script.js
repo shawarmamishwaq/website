@@ -4,6 +4,7 @@ const translations = {
   en: {
     brandName: "Shawarma Mishwaq",
     brandTagline: "Shawarma & Mashawi in Oman",
+    navHome: "Home",
     navAbout: "About",
     navMenu: "Menu",
     navLocation: "Location",
@@ -79,6 +80,7 @@ const translations = {
   ar: {
     brandName: "شاورما مشواق",
     brandTagline: "شاورما ومشاوي في عُمان",
+    navHome: "الرئيسية",
     navAbout: "من نحن",
     navMenu: "القائمة",
     navLocation: "الموقع",
